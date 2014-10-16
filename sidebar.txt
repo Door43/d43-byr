@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[byr:home|Door43 (byr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-byr|d43-byr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-byr/archive/master.zip|d43-byr.zip]]
+
+**Recent Changes**
+{{changes>ns = byr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/byr|Ethnologue data]]
+
